@@ -12,7 +12,7 @@ class App extends React.Component {
       this.setState({ peopleInSpace: data.people})
     })
   }
-  
+
   render() {
     return (
       <div>
